@@ -1,10 +1,10 @@
 console.log('twitter');
 
 var twitterKeys = {
-  consumer_key: '<input here>',
-  consumer_secret: '<input here>',
-  access_token_key: '<input here>',
-  access_token_secret: '<input here>',
+  consumer_key: 'x6u1bfWqw5dgZmtpdJcV0XgjC',
+  consumer_secret: '	6QwqX5D9a11HcRInw8kqBzFOTeLPUUSnzsIxyanyoc4mixn5Nr',
+  access_token_key: '930584330195361792-KKKWGIKWkKzrKiQ1FHcHDtqy46AMN3a',
+  access_token_secret: '	3HjUiRNOLwvKGqwQWlUPDODqGDXYHoiLXIj5VLJUTNBMD',
 }
 
 module.exports = twitterKeys;
